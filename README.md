@@ -1,6 +1,6 @@
 # MIMO Kalman Filter with PID Control (MATLAB/Simulink)
 
-A multi-input, multi-output (MIMO) Kalman filter with PID control, built in MATLAB and Simulink. The plant is a 5-state longitudinal aircraft model in state-space form. The optimal steady-state Kalman gain is computed from the discrete Riccati equation, and the filter estimates all five states from noisy sensor measurements.
+A multi-input, multi-output (MIMO) Kalman filter, built in MATLAB and Simulink. The plant is a 5-state longitudinal aircraft model in state-space form. The optimal steady-state Kalman gain is computed from the discrete Riccati equation, and the filter estimates all five states from noisy sensor measurements.
 
 ## Results
 
